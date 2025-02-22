@@ -127,3 +127,24 @@ header{
     color:white;
     cursor: pointer;
 }
+
+@media(max-width:768px){
+    body{
+        background-color: #6c6c6c;
+    }
+    a{
+        display:none;
+    }
+}
+
+
+    /* En terminal 
+
+    git add . 
+    git commit -m "etiqueta de la version"
+    git push */
+
+
+    /*En el navegador*/
+
+    /* actualizar el repositorio de github */
